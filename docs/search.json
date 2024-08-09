@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About",
     "section": "",
-    "text": "About this site\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "favourites.html",
@@ -86,6 +86,20 @@
   {
     "objectID": "posts/about.html#introduction",
     "href": "posts/about.html#introduction",
+    "title": "About Me",
+    "section": "Introduction",
+    "text": "Introduction\nHello"
+  },
+  {
+    "objectID": "posts/bolg1.html",
+    "href": "posts/bolg1.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/bolg1.html#introduction",
+    "href": "posts/bolg1.html#introduction",
     "title": "About Me",
     "section": "Introduction",
     "text": "Introduction\nHello"

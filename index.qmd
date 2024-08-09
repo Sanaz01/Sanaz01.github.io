@@ -25,13 +25,15 @@ Besides work, I enjoy drinking chai (it's not chai tea!) and working out. I am a
 ## Education
 
 ### MS, Biomedical Engineering
+
 Johns Hopkins University
 
 ### B.Tech, Biochemical Engineering and Biotechnology
+
 Indian Institute of Technology (IIT), Delhi
 
 ## Key Research Interests
 
-- **Single Cell RNA Analysis** - unsupervised clustering, annotation based clustering, differential gene expression
-- **Variant Calling**
-- **NGS Nanopore Sequencing**
+-   **Single Cell RNA Analysis** - unsupervised clustering, annotation based clustering, differential gene expression
+-   **Variant Calling**
+-   **NGS Nanopore Sequencing**

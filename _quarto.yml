@@ -4,6 +4,9 @@ project:
 
 website:
   title: "Sanaz Agarwal"
+  open-graph: true
+  google-analytics:
+    tracking-id: "G-PHD8FEK27R"
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +14,7 @@ website:
       - blogs.qmd
       - publications.qmd
       # link to resume?
+    
 
 format:
   html:

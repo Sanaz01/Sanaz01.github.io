@@ -1,0 +1,10 @@
+---
+title: "Publications"
+---
+
+-   Jyoti P. Gurung, Moein Navvab Kashani, **Sanaz Agarwal**, Gonzalo Peralta, Murat Gel, Matthew A. B. Baker; Separation and enrichment of sodium-motile bacteria using cost-effective microfluidics. Biomicrofluidics 1 May 2021; 15 (3): 034108. <https://doi.org/10.1063/5.0046941>
+
+-   Gujarati S, Roy P, **Agarwal S**, Madhav M, Gupta I, Syamantak M, Kochar SK, Gupta D, and Das A. Natural Antisense Transcripts and DNA Methylation in Clinical Isolates of Plasmodium falciparum Malaria. [Poster](http://bit.ly/3rqnhSi)
+
+- KohliS., Yandhiri D., **Agarwal S.**, Gupta I., & Brahmachari V. Characterization of the Male-Specific Chromatin
+ Organization and its Role in Heterochromatin Formation in the Mealybug M. hirsutus _(manuscript in preparation)_

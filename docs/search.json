@@ -2,15 +2,92 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Sanaz01.github.io",
+    "title": "Sanaz Agarwal",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am a Bioinformatician/ Computational Biologist working at Fred Hutch Cancer Center, Seattle WA. I use cancer biology and advanced computational algorithms to interpret data from cancer patients and infer the mutations as well as differential gene expression profiles. Currently, I am focusing on leukemia — cancer of the blood or bone marrow.\nBesides work, I enjoy drinking chai (it’s not chai tea!) and working out. I am a swimmer and have represented in National and State level championships in India."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "favourites.html",
+    "href": "favourites.html",
+    "title": "Favourites",
+    "section": "",
+    "text": "Swimming\nMovies\nTV Shows"
+  },
+  {
+    "objectID": "favourites.html#interests",
+    "href": "favourites.html#interests",
+    "title": "Favourites",
+    "section": "",
+    "text": "Swimming\nMovies\nTV Shows"
+  },
+  {
+    "objectID": "favourites.html#fdgd",
+    "href": "favourites.html#fdgd",
+    "title": "Favourites",
+    "section": "fdgd",
+    "text": "fdgd\n\ndfdf\ntyty"
+  },
+  {
+    "objectID": "about.html#introduction",
+    "href": "about.html#introduction",
+    "title": "About Me",
+    "section": "Introduction",
+    "text": "Introduction\nHello"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Sanaz Agarwal",
+    "section": "",
+    "text": "I am a Bioinformatician/ Computational Biologist working at Fred Hutch Cancer Center, Seattle WA. I use cancer biology and advanced computational algorithms to interpret data from cancer patients and infer the mutations as well as differential gene expression profiles. Currently, I am focusing on leukemia — cancer of the blood or bone marrow.\nBesides work, I enjoy drinking chai (it’s not chai tea!) and working out. I am a swimmer and have represented in National and State level championships in India."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sanaz Agarwal",
+    "section": "Education",
+    "text": "Education\n\nMS, Biomedical Engineering\nJohns Hopkins University\n\n\nB.Tech, Biochemical Engineering and Biotechnology\nIndian Institute of Technology (IIT), Delhi"
+  },
+  {
+    "objectID": "index.html#key-research-interests",
+    "href": "index.html#key-research-interests",
+    "title": "Sanaz Agarwal",
+    "section": "Key Research Interests",
+    "text": "Key Research Interests\n\nSingle Cell RNA Analysis - unsupervised clustering, annotation based clustering, differential gene expression\nVariant Calling\nNGS Nanopore Sequencing"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Jyoti P. Gurung, Moein Navvab Kashani, Sanaz Agarwal, Gonzalo Peralta, Murat Gel, Matthew A. B. Baker; Separation and enrichment of sodium-motile bacteria using cost-effective microfluidics. Biomicrofluidics 1 May 2021; 15 (3): 034108. https://doi.org/10.1063/5.0046941\nGujarati S, Roy P, Agarwal S, Madhav M, Gupta I, Syamantak M, Kochar SK, Gupta D, and Das A. Natural Antisense Transcripts and DNA Methylation in Clinical Isolates of Plasmodium falciparum Malaria. Poster\nKohliS., Yandhiri D., Agarwal S., Gupta I., & Brahmachari V. Characterization of the Male-Specific Chromatin Organization and its Role in Heterochromatin Formation in the Mealybug M. hirsutus (manuscript in preparation)"
+  },
+  {
+    "objectID": "blogs.html",
+    "href": "blogs.html",
+    "title": "Blogs",
+    "section": "",
+    "text": "Here is a list of topics and questions that intrigued me so that I carried extra research around it. It is also a way to document all that I have learned in my extra time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout Me\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/about.html",
+    "href": "posts/about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About this site\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/about.html#introduction",
+    "href": "posts/about.html#introduction",
+    "title": "About Me",
+    "section": "Introduction",
+    "text": "Introduction\nHello"
   }
 ]

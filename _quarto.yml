@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Sanaz01.github.io"
+  title: "Sanaz Agarwal"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - blogs.qmd
+      - publications.qmd
+      # link to resume?
 
 format:
   html:

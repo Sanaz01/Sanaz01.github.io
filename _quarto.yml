@@ -5,6 +5,7 @@ project:
 website:
   title: "Sanaz Agarwal"
   open-graph: true
+  cookie-consent: true
   google-analytics:
     tracking-id: "G-PHD8FEK27R"
   navbar:

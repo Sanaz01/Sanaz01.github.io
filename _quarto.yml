@@ -3,19 +3,16 @@ project:
   output-dir: docs
 
 website:
-  title: "Sanaz Agarwal"
-  open-graph: true
-  cookie-consent: true
   google-analytics:
     tracking-id: "G-PHD8FEK27R"
+  title: "Sanaz Agarwal"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - blogs.qmd
       - publications.qmd
-      # link to resume?
-    
+
 
 format:
   html:

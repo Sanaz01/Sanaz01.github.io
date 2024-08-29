@@ -7,7 +7,7 @@ about:
   links:
     - text: Email
       icon: envelope
-      href: mailto:sanazagarwal99@gmail.com
+      href: "mailto:sanazagarwal99@gmail.com"
     - text: GitHub
       icon: github
       href: https://github.com/Sanaz01

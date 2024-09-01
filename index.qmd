@@ -16,24 +16,26 @@ about:
       href: https://www.linkedin.com/in/sanaz-agarwal/
 ---
 
-## Introduction
+### Introduction
 
-I am a Bioinformatician/ Computational Biologist working at [Fred Hutch Cancer Center](https://www.fredhutch.org/), Seattle WA. I use cancer biology and advanced computational algorithms to interpret data from cancer patients and infer the mutations as well as differential gene expression profiles. Currently, I am focusing on leukemia — cancer of the blood or bone marrow.
+I am a Bioinformatician/ Computational Biologist working at [Fred Hutch Cancer Center](https://www.fredhutch.org/), Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.
 
-Besides work, I enjoy drinking chai (it's not chai tea!) and working out. I am a swimmer and have represented in National and State level championships in India.
+I am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and all the amazing science it has enabled us to do. From long-read sequencing to single cell expression capture and variant calling at per base level. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.
 
-## Education
+Besides work, I enjoy drinking chai (it's not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. As a recreational activity, I also play the piano. Ludovico Einaudi is my favourite pianist.
 
-### MS, Biomedical Engineering
+### Education
+
+#### MS, Biomedical Engineering
 
 Johns Hopkins University
 
-### B.Tech, Biochemical Engineering and Biotechnology
+#### Bachelors, Biochemical Engineering and Biotechnology
 
-Indian Institute of Technology (IIT), Delhi
+Indian Institute of Technology (IIT) Delhi, India
 
-## Key Research Interests
+### Key Research Interests
 
--   **Single Cell RNA Analysis** - unsupervised clustering, annotation based clustering, differential gene expression
--   **Variant Calling**
--   **NGS Nanopore Sequencing**
+-   **Single Cell RNA Analysis** - unsupervised clustering, heterogeneity identification, differential gene expression
+-   **Variant Calling** - identification of structural and genomic variants, annotation
+-   **NGS Nanopore Sequencing** - basecalling, annotation, epigenetic marker identification

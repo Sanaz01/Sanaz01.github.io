@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sanaz01.github.io/index.html</loc>
-    <lastmod>2024-09-01T03:41:44.940Z</lastmod>
+    <loc>https://sanaz01.github.io/blogs.html</loc>
+    <lastmod>2024-09-02T06:40:07.233Z</lastmod>
   </url>
   <url>
-    <loc>https://sanaz01.github.io/blogs.html</loc>
-    <lastmod>2024-08-29T20:30:57.404Z</lastmod>
+    <loc>https://sanaz01.github.io/posts/cancer-tests/index.html</loc>
+    <lastmod>2024-09-02T06:29:37.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sanaz01.github.io/index.html</loc>
+    <lastmod>2024-09-02T04:29:30.693Z</lastmod>
   </url>
   <url>
     <loc>https://sanaz01.github.io/publications.html</loc>
     <lastmod>2024-08-09T00:32:57.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sanaz01.github.io/research.html</loc>
+    <lastmod>2024-09-02T03:38:56.347Z</lastmod>
   </url>
 </urlset>

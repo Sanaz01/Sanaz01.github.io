@@ -1,6 +1,6 @@
 ---
 title: "Sanaz Agarwal"
-image: profile.jpg
+image: ProfilePhoto.jpeg
 # resources: resume.pdf - automatically copies file to /docs for rendering
 about:
   template: trestles
@@ -20,9 +20,9 @@ about:
 
 I am a Bioinformatician/ Computational Biologist working at [Fred Hutch Cancer Center](https://www.fredhutch.org/), Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.
 
-I am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and all the amazing science it has enabled us to do. From long-read sequencing to single cell expression capture and variant calling at per base level. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.
+I am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and opened many new frontiers of molecular analysis. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.
 
-Besides work, I enjoy drinking chai (it's not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. As a recreational activity, I also play the piano. Ludovico Einaudi is my favourite pianist.
+Besides work, I enjoy drinking chai (it's not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. For recreation, I also play the piano.
 
 ### Education
 

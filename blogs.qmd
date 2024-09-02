@@ -10,4 +10,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-Here is a list of topics and questions that intrigued me so that I carried extra research around it. It is also a way to document all that I have learned in my extra time.
+Here is a list of topics and questions that intrigued me. My curiosity has led me to learn, understand and document the answers here for public knowledge.

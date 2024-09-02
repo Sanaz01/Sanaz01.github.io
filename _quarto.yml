@@ -4,10 +4,13 @@ project:
 
 website:
   site-url: "https://sanaz01.github.io/"
+  description: "Sanaz Agarwal's personal website" 
   google-analytics:
     tracking-id: "G-PHD8FEK27R"
   title: "Sanaz Agarwal"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home

@@ -1,6 +1,6 @@
 ---
 title: "Sanaz Agarwal"
-image: ProfilePhoto.jpeg
+image: profile_image.jpg
 # resources: resume.pdf - automatically copies file to /docs for rendering
 about:
   template: trestles
@@ -36,6 +36,18 @@ Indian Institute of Technology (IIT) Delhi, India
 
 ### Key Research Interests
 
--   **Single Cell RNA Analysis** - unsupervised clustering, heterogeneity identification, differential gene expression
--   **Variant Calling** - identification of structural and genomic variants, annotation
--   **NGS Nanopore Sequencing** - basecalling, annotation, epigenetic marker identification
+-   **Single Cell RNA Analysis**
+    -   QC methods
+    -   Unsupervised clustering
+    -   Heterogeneity identification
+    -   Differential gene expression
+-   **Variant Calling**
+    -   Structural and Genomic variants
+    -   Annotation
+-   **NGS Nanopore Sequencing**
+    -   Basecalling
+    -   Annotation
+    -   Epigenetic marker identification
+-   **Environments and Workflows**
+    -   Dockers, Conda
+    -   WDL, Nextflow, Snakemake

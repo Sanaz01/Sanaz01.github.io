@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Sanaz Agarwal</title>
+<title>Research – Sanaz Agarwal</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,40 +19,6 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
-}
-/* CSS for syntax highlighting */
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -114,7 +80,7 @@ gtag('config', 'G-PHD8FEK27R', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -144,7 +110,7 @@ gtag('config', 'G-PHD8FEK27R', { 'anonymize_ip': true});
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
 </ul>
@@ -157,16 +123,30 @@ gtag('config', 'G-PHD8FEK27R', { 'anonymize_ip': true});
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of Contents</h2>
+   
+  <ul class="collapse">
+  <li><a href="#single-cell-rna-seq" id="toc-single-cell-rna-seq" class="nav-link active" data-scroll-target="#single-cell-rna-seq">Single-cell RNA-seq</a></li>
+  <li><a href="#variant-calling" id="toc-variant-calling" class="nav-link" data-scroll-target="#variant-calling">Variant Calling</a></li>
+  <li><a href="#nanopore-sequencing" id="toc-nanopore-sequencing" class="nav-link" data-scroll-target="#nanopore-sequencing">Nanopore Sequencing</a></li>
+  <li><a href="#algorithm-development" id="toc-algorithm-development" class="nav-link" data-scroll-target="#algorithm-development">Algorithm Development</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
+  </ul>
+</nav>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -183,15 +163,66 @@ gtag('config', 'G-PHD8FEK27R', { 'anonymize_ip': true});
 </header>
 
 
-<p>About this site</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="dv">1</span> <span class="sc">+</span> <span class="dv">1</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
+<p>Welcome to my research webpage! This portfolio showcases my journey through the cutting-edge landscape of bioinformatics and computational biology. As the field of bioinformatics continues to evolve, I remain dedicated to leveraging emerging technologies and methodologies to drive meaningful discoveries in cancer research, infectious diseases, and beyond.</p>
+<section id="single-cell-rna-seq" class="level2">
+<h2 class="anchored" data-anchor-id="single-cell-rna-seq">Single-cell RNA-seq</h2>
+<p>Performed quality control, batch correction, unsupervised clustering and identification of differentially expressed genes in samples from cancer (Acute Myeloid Leukemia) patients with various genetic mutations. Analyzed for inter-cellular heterogeneity using DEGs and gene annotation. Utilized methods like batch normalization and anchoring common cellular expressions for batch effect removal.</p>
+<section id="key-contributions" class="level4">
+<h4 class="anchored" data-anchor-id="key-contributions"><u>Key Contributions</u></h4>
+<ul>
+<li>Developed <strong>Seurat</strong>, <strong>scanpy</strong> and <strong>scvi-tools</strong> end-to-end workflows using <strong>R</strong>, <strong>Python</strong> and <strong>WDL</strong></li>
+<li>Used <strong>DoubletFinder</strong>, <strong>Harmony</strong>, <strong>ComBat</strong>, <strong>DESeq2</strong>, <strong>SCTransform(v2)</strong> according to best practices</li>
+<li>Developed <a href="https://rna-qctool.fredhutch.org/" title="Link to App for QC Analysis">Single Cell Quality Control Tool</a> for end users for interactive visualization of raw data</li>
+<li>Generated custom Docker images for each task</li>
+</ul>
+</section>
+</section>
+<section id="variant-calling" class="level2">
+<h2 class="anchored" data-anchor-id="variant-calling">Variant Calling</h2>
+<p>Developed optimized workflows to integrate variant calling, file parsing and formatting from multiple tools for identification of multiple forms of structural and genomic variants in Leukemia patients. Testing sequencing methods to outperform conventional cytogenic testing for rapid diagnosis.</p>
+<section id="key-contributions-1" class="level4">
+<h4 class="anchored" data-anchor-id="key-contributions-1"><u>Key Contributions</u></h4>
+<ul>
+<li>Integrating <strong>GATK</strong>, <strong>BCFtools</strong>, <strong>VarScan2</strong>, <strong>Pindel</strong>, <strong>VEP</strong>, <strong>ichorCNA</strong>, <strong>Manta</strong> for multifaceted variant search</li>
+<li>Developed <strong>Docker images</strong> for each task within a combined WDL workflow</li>
+</ul>
+</section>
+</section>
+<section id="nanopore-sequencing" class="level2">
+<h2 class="anchored" data-anchor-id="nanopore-sequencing">Nanopore Sequencing</h2>
+<p>Performed basecalling on novel mealybugs and species from Plasmodium genus (source of Malaria). Aligned with a reference genome using minimap2 and calculated methylation probability score at per CpG site for epigenetic marker identification. Explored epigenetic distribution to study impact in facultative heterochromaticity.</p>
+<section id="key-contributions-2" class="level4">
+<h4 class="anchored" data-anchor-id="key-contributions-2"><u>Key Contributions</u></h4>
+<ul>
+<li>Used <strong>Dorado</strong>, <strong>Guppy</strong> and <strong>Megalodon</strong> for HAC basecalling using <strong>5mC</strong>, <strong>5hmC</strong>, <strong>6mA</strong> Remora models</li>
+<li>Parsed <strong>BAM/SAM</strong> files with <strong>Samtools</strong> to identify methylation frequency per <strong>CpG</strong> site across genome</li>
+<li>Utilized <strong>R packages</strong> - <strong>GenomicRanges</strong> and <strong>IRanges</strong> for mapping sites against reference GCF files</li>
+<li>Used <strong>UNCALLED</strong>, <strong>ReadUntil</strong> for adaptive sampling, increasing accuracy from 56% to <strong>78%</strong></li>
+</ul>
+</section>
+</section>
+<section id="algorithm-development" class="level2">
+<h2 class="anchored" data-anchor-id="algorithm-development">Algorithm Development</h2>
+<p>Developed the <strong>first algorithm</strong> to generate probes and primers from 16s rRNA sequences of pathogenic microbiome. Incorporated a unique feature for finding best primer/ probe per taxonomic level.</p>
+<section id="key-contributions-3" class="level4">
+<h4 class="anchored" data-anchor-id="key-contributions-3"><u>Key Contributions</u></h4>
+<ul>
+<li>Developed automated pipeline to retrieve sequences from <strong>NCBI Entrez</strong> in <strong>Bash</strong></li>
+<li>Used Python packages - <strong>Biopython</strong>, <strong>scikit-learn</strong>, <strong>pandas</strong>, <strong>numpy</strong>, <strong>pandarallel</strong>, <strong>multiprocessing</strong></li>
+</ul>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<p>To conclude, my research experience spans from single-cell RNA sequencing to novel algorithm development, each project advancing my understanding of human health and disease. This diverse skill set in advanced sequencing technologies, variant calling, and computational approaches positions me at the forefront of integrating data science with biological insights.</p>
+<p>I aim to contribute to discoveries that can enhance our understanding of life sciences and transform patient care - early prediction, diagnosis and precision medicine.</p>
+</section>
+<section id="contact" class="level2">
+<h2 class="anchored" data-anchor-id="contact">Contact</h2>
+<p>Feel free to <a href="mailto:sanazagarwal99@gmail.com">reach out</a> if you have any questions or would like to collaborate on future research projects.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

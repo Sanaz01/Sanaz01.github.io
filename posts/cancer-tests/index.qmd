@@ -66,7 +66,6 @@ USPSTF recommends colorectal screening for people at average risk of colorectal 
 
 In July 2024, FDA approved Guardant Health’s [Shield Blood Test](https://shieldcancerscreen.com/). A [research paper](https://www.nejm.org/doi/full/10.1056/NEJMoa2304714) shows evidence that this test is 83% effective in finding colorectal cancers.
 
-
 ### Breast Cancer Tests
 
 *2^nd^ leading cause of death from cancer for women in US*
@@ -90,7 +89,6 @@ The following tests are available:
 The updated and preferred test recommended by the American Cancer Society (ACS) is a primary HPV test for women between ages 25-65 every 5 years.
 
 > *If primary HPV testing is not available, screening may be done with either a co-test that combines an HPV test with a Papanicolaou (Pap) test every 5 years or a Pap test alone every 3 years* - ACS
-
 
 ### Not every cancer has a screening test
 

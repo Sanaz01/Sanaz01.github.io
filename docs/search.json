@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Sanaz Agarwal",
     "section": "",
-    "text": "Introduction\nI am a Bioinformatician/ Computational Biologist working at Fred Hutch Cancer Center, Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.\nI am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and opened many new frontiers of molecular analysis. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.\nBesides work, I enjoy drinking chai (it’s not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. For recreation, I also play the piano.\n\n\nEducation\n\nMS, Biomedical Engineering\nJohns Hopkins University\n\n\nBachelors, Biochemical Engineering and Biotechnology\nIndian Institute of Technology (IIT) Delhi, India\n\n\n\nKey Research Interests\n\nSingle Cell RNA Analysis - unsupervised clustering, heterogeneity identification, differential gene expression\nVariant Calling - identification of structural and genomic variants, annotation\nNGS Nanopore Sequencing - basecalling, annotation, epigenetic marker identification"
+    "text": "Introduction\nI am a Bioinformatician/ Computational Biologist working at Fred Hutch Cancer Center, Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.\nI am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and opened many new frontiers of molecular analysis. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.\nBesides work, I enjoy drinking chai (it’s not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. For recreation, I also play the piano.\n\n\nEducation\n\nMS, Biomedical Engineering\nJohns Hopkins University\n\n\nBS, Biochemical Engineering and Biotechnology\nIndian Institute of Technology (IIT) Delhi, India\n\n\n\nKey Research Interests\n\nSingle Cell RNA Analysis\n\nQC methods\nUnsupervised clustering\nPseudobulk analysis\nDifferential gene expression\n\nVariant Calling\n\nStructural and Genomic variants\nAnnotation\n\nNGS Nanopore Sequencing\n\nBasecalling\nAnnotation\nEpigenetic marker identification\n\nEnvironments and Workflows\n\nDockers, Conda\nWDL, Nextflow, Snakemake"
   },
   {
     "objectID": "publications.html",
@@ -30,16 +30,16 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research Experience",
+    "title": "Research",
     "section": "",
-    "text": "Welcome to my research portfolio. Here, I am presenting my research experiences, each highlighting key technologies and skill set used. I am continuously developing stronger expertise these areas."
+    "text": "Welcome to my research webpage! This portfolio showcases my journey through the cutting-edge landscape of bioinformatics and computational biology. As the field of bioinformatics continues to evolve, I remain dedicated to leveraging emerging technologies and methodologies to drive meaningful discoveries in cancer research, infectious diseases, and beyond."
   },
   {
     "objectID": "research.html#single-cell-rna-seq",
     "href": "research.html#single-cell-rna-seq",
-    "title": "Research Experience",
+    "title": "Research",
     "section": "Single-cell RNA-seq",
-    "text": "Single-cell RNA-seq\nDuration: Month Year - Month Year\nInstitution: Your Institution/Organization\nRole: Your Role (e.g., Research Assistant, Lead Researcher)\n\nOverview\nIdentification of differential expressed genes in samples from cancer patients with various genetic mutations. Analyzed for inter-cellular heterogeneity. Filtered raw count matrix using domain knowledge and sample information. Normalized, scaled and anchored common cellular expressions for batch effect removal, leading to unsupervised clustering. Provide a brief introduction to the research project. Discuss the main goals, significance, and any collaborators involved. Highlight the impact of the research and any key findings.\n\n\nKey Contributions\n\nContribution 1: Describe your specific contribution or task.\nContribution 2: Explain another aspect of your involvement.\nContribution 3: Mention any innovative techniques or methods you developed or employed.\n\n\n\nTools & Technologies\n\nTool/Technology 1: Short description of how it was used.\nTool/Technology 2: Short description of how it was used.\n\n\n\nOutcome\nSummarize the outcome of the research, such as publications, presentations, or significant results.\n\n\nLinks & References\n\nGitHub Repository: Link to the relevant codebase.\nPresentation Slides: Link to a PDF or online version of the presentation."
+    "text": "Single-cell RNA-seq\nPerformed quality control, batch correction, unsupervised clustering and identification of differentially expressed genes in samples from cancer (Acute Myeloid Leukemia) patients with various genetic mutations. Analyzed for inter-cellular heterogeneity using DEGs and gene annotation. Utilized methods like batch normalization and anchoring common cellular expressions for batch effect removal.\n\nKey Contributions\n\nDeveloped Seurat, scanpy and scvi-tools end-to-end workflows using R, Python and WDL\nUsed DoubletFinder, Harmony, ComBat, DESeq2, SCTransform(v2) according to best practices\nDeveloped Single Cell Quality Control Tool for end users for interactive visualization of raw data\nGenerated custom Docker images for each task"
   },
   {
     "objectID": "research.html#research-experience-2-project-title",
@@ -54,5 +54,152 @@
     "title": "Research Experience",
     "section": "Research Experience 3: Project Title",
     "text": "Research Experience 3: Project Title\nDuration: Month Year - Month Year\nInstitution: Your Institution/Organization\nRole: Your Role\n\nOverview\nProvide a brief introduction to the research project. Discuss the main goals, significance, and any collaborators involved.\n\n\nKey Contributions\n\nContribution 1: Describe your specific contribution or task.\nContribution 2: Explain another aspect of your involvement.\n\n\n\nTools & Technologies\n\nTool/Technology 1: Short description of how it was used.\nTool/Technology 2: Short description of how it was used.\n\n\n\nOutcome\nSummarize the outcome of the research, such as publications, presentations, or significant results.\n\n\nLinks & References\n\nGitHub Repository: Link to the relevant codebase.\nPresentation Slides: Link to a PDF or online version of the presentation."
+  },
+  {
+    "objectID": "test/research.html",
+    "href": "test/research.html",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "February 2024 - Present\n\nSpearheading intratumor heterogeneity analysis using cutting-edge single-cell tools:\n\nSeurat\nScanpy\nscvi-tools\n\nConducting comprehensive genotype analysis of oncogenes in Leukemia patients:\n\nGATK tools\nAnnovar\nBCFtools\n\nPioneering WDL workflows with Docker for streamlined file management and automated clinical analysis on AWS servers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAugust 2022 – January 2024\n\nKey AchievementsSkills Showcase\n\n\n\nDeveloped a high-speed Python workflow for 16s rRNA probe identification:\n\nUtilized 20 distinct features\nSuccessfully identified 30+ pathogenic species\nAchieved runtime of less than 10 minutes\n\nEstablished a cutting-edge NGS pipeline for rapid blood-stream infection bacteria detection:\n\nImplemented Guppy for base-calling\nEnabled early diagnosis in less than 1 day\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2021 – August 2022\n\nGroundbreaking ResearchTechnical InnovationsVisualization\n\n\n\nPioneered WGS using NGS Nanopore sequencing on:\n\nMealybugs\nPlasmodium species\n\nAim: Epigenome discovery in previously unexplored organisms\n\n\n\n\nLeveraged GPUs and parallel computing to optimize large data processing:\n\nReduced computing time for Malaria analysis to ~10 hours\nFacilitated early diagnosis capabilities\n\nImplemented advanced Nanopore sequencing techniques:\n\nUNCALLED\nReadUntil for adaptive sampling\nIncreased accuracy from 56% to 78%"
+  },
+  {
+    "objectID": "test/research.html#current-position",
+    "href": "test/research.html#current-position",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "February 2024 - Present\n\nSpearheading intratumor heterogeneity analysis using cutting-edge single-cell tools:\n\nSeurat\nScanpy\nscvi-tools\n\nConducting comprehensive genotype analysis of oncogenes in Leukemia patients:\n\nGATK tools\nAnnovar\nBCFtools\n\nPioneering WDL workflows with Docker for streamlined file management and automated clinical analysis on AWS servers"
+  },
+  {
+    "objectID": "test/research.html#previous-experiences",
+    "href": "test/research.html#previous-experiences",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "August 2022 – January 2024\n\nKey AchievementsSkills Showcase\n\n\n\nDeveloped a high-speed Python workflow for 16s rRNA probe identification:\n\nUtilized 20 distinct features\nSuccessfully identified 30+ pathogenic species\nAchieved runtime of less than 10 minutes\n\nEstablished a cutting-edge NGS pipeline for rapid blood-stream infection bacteria detection:\n\nImplemented Guppy for base-calling\nEnabled early diagnosis in less than 1 day\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2021 – August 2022\n\nGroundbreaking ResearchTechnical InnovationsVisualization\n\n\n\nPioneered WGS using NGS Nanopore sequencing on:\n\nMealybugs\nPlasmodium species\n\nAim: Epigenome discovery in previously unexplored organisms\n\n\n\n\nLeveraged GPUs and parallel computing to optimize large data processing:\n\nReduced computing time for Malaria analysis to ~10 hours\nFacilitated early diagnosis capabilities\n\nImplemented advanced Nanopore sequencing techniques:\n\nUNCALLED\nReadUntil for adaptive sampling\nIncreased accuracy from 56% to 78%"
+  },
+  {
+    "objectID": "test/research.html#programming-data-science",
+    "href": "test/research.html#programming-data-science",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.1 Programming & Data Science",
+    "text": "2.1 Programming & Data Science\n\nCore LanguagesWorkflow ManagementVersion Control & DeploymentCloud & HPC\n\n\n\nPython\nR\nBash\nLinux\n\n\n\n\nNextflow\nSnakemake\nWDL\n\n\n\n\nGit\nDocker\nKubernetes\nSLURM\n\n\n\n\nAWS\nHigh-Performance Computing (HPC)"
+  },
+  {
+    "objectID": "test/research.html#bioinformatics-packages-tools",
+    "href": "test/research.html#bioinformatics-packages-tools",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.2 Bioinformatics Packages & Tools",
+    "text": "2.2 Bioinformatics Packages & Tools\n\nMachine LearningSingle-cell AnalysisGeneral Bioinformatics\n\n\n\nPyTorch\nTensorFlow\nscikit-learn\n\n\n\n\nScanpy\nSeurat\nscvi-tools\ncellranger\n\n\n\n\nBiopython\nBioconductor\npandas"
+  },
+  {
+    "objectID": "test/research.html#specialized-bioinformatics-skills",
+    "href": "test/research.html#specialized-bioinformatics-skills",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.3 Specialized Bioinformatics Skills",
+    "text": "2.3 Specialized Bioinformatics Skills\n\nSequencing TechnologiesData AnalysisToolkitsVariant Calling\n\n\n\nNanopore Sequencing\nNext-Generation Sequencing (NGS)\n\n\n\n\nGenomics\nTranscriptomics\nSingle-cell RNA-seq analysis\n\n\n\n\nsamtools\nbedtools\n\n\n\n\nManta\nPindel\nVarScan2\nichorCNA\nMutect2\nBCFtools\nGATK tools"
+  },
+  {
+    "objectID": "test/research.html#machine-learning-expertise",
+    "href": "test/research.html#machine-learning-expertise",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.4 Machine Learning Expertise",
+    "text": "2.4 Machine Learning Expertise"
+  },
+  {
+    "objectID": "test/research.html#data-management-deployment",
+    "href": "test/research.html#data-management-deployment",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.5 Data Management & Deployment",
+    "text": "2.5 Data Management & Deployment\n\n\n\n2.5.1 Databases\n\nMySQL\nPostgreSQL\n\n\n\n2.5.2 APIs & Web Development\n\nRESTful APIs\nFlask\nShiny\nStreamlit\nQuarto\n\n\n\n\n2.5.3 File Formats\n\nVCF\nBED\nFASTA\nFASTQ\nBAM\nSAM\nCRAM"
+  },
+  {
+    "objectID": "test/research1.html",
+    "href": "test/research1.html",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "February 2024 - Present\n\nSpearheading intratumor heterogeneity analysis using cutting-edge single-cell tools:\n\nSeurat\nScanpy\nscvi-tools\n\nConducting comprehensive genotype analysis of oncogenes in Leukemia patients:\n\nGATK tools\nAnnovar\nBCFtools\n\nPioneering WDL workflows with Docker for streamlined file management and automated clinical analysis on AWS servers\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAugust 2022 – January 2024\n\nKey AchievementsSkills Showcase\n\n\n\nDeveloped a high-speed Python workflow for 16s rRNA probe identification:\n\nUtilized 20 distinct features\nSuccessfully identified 30+ pathogenic species\nAchieved runtime of less than 10 minutes\n\nEstablished a cutting-edge NGS pipeline for rapid blood-stream infection bacteria detection:\n\nImplemented Guppy for base-calling\nEnabled early diagnosis in less than 1 day\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2021 – August 2022\n\nGroundbreaking ResearchTechnical InnovationsVisualization\n\n\n\nPioneered WGS using NGS Nanopore sequencing on:\n\nMealybugs\nPlasmodium species\n\nAim: Epigenome discovery in previously unexplored organisms\n\n\n\n\nLeveraged GPUs and parallel computing to optimize large data processing:\n\nReduced computing time for Malaria analysis to ~10 hours\nFacilitated early diagnosis capabilities\n\nImplemented advanced Nanopore sequencing techniques:\n\nUNCALLED\nReadUntil for adaptive sampling\nIncreased accuracy from 56% to 78%"
+  },
+  {
+    "objectID": "test/research1.html#current-position",
+    "href": "test/research1.html#current-position",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "February 2024 - Present\n\nSpearheading intratumor heterogeneity analysis using cutting-edge single-cell tools:\n\nSeurat\nScanpy\nscvi-tools\n\nConducting comprehensive genotype analysis of oncogenes in Leukemia patients:\n\nGATK tools\nAnnovar\nBCFtools\n\nPioneering WDL workflows with Docker for streamlined file management and automated clinical analysis on AWS servers"
+  },
+  {
+    "objectID": "test/research1.html#previous-experiences",
+    "href": "test/research1.html#previous-experiences",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "",
+    "text": "August 2022 – January 2024\n\nKey AchievementsSkills Showcase\n\n\n\nDeveloped a high-speed Python workflow for 16s rRNA probe identification:\n\nUtilized 20 distinct features\nSuccessfully identified 30+ pathogenic species\nAchieved runtime of less than 10 minutes\n\nEstablished a cutting-edge NGS pipeline for rapid blood-stream infection bacteria detection:\n\nImplemented Guppy for base-calling\nEnabled early diagnosis in less than 1 day\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJanuary 2021 – August 2022\n\nGroundbreaking ResearchTechnical InnovationsVisualization\n\n\n\nPioneered WGS using NGS Nanopore sequencing on:\n\nMealybugs\nPlasmodium species\n\nAim: Epigenome discovery in previously unexplored organisms\n\n\n\n\nLeveraged GPUs and parallel computing to optimize large data processing:\n\nReduced computing time for Malaria analysis to ~10 hours\nFacilitated early diagnosis capabilities\n\nImplemented advanced Nanopore sequencing techniques:\n\nUNCALLED\nReadUntil for adaptive sampling\nIncreased accuracy from 56% to 78%"
+  },
+  {
+    "objectID": "test/research1.html#programming-data-science",
+    "href": "test/research1.html#programming-data-science",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.1 Programming & Data Science",
+    "text": "2.1 Programming & Data Science\n\nCore LanguagesWorkflow ManagementVersion Control & DeploymentCloud & HPC\n\n\n\nPython\nR\nBash\nLinux\n\n\n\n\nNextflow\nSnakemake\nWDL\n\n\n\n\nGit\nDocker\nKubernetes\nSLURM\n\n\n\n\nAWS\nHigh-Performance Computing (HPC)"
+  },
+  {
+    "objectID": "test/research1.html#bioinformatics-packages-tools",
+    "href": "test/research1.html#bioinformatics-packages-tools",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.2 Bioinformatics Packages & Tools",
+    "text": "2.2 Bioinformatics Packages & Tools\n\nMachine LearningSingle-cell AnalysisGeneral Bioinformatics\n\n\n\nPyTorch\nTensorFlow\nscikit-learn\n\n\n\n\nScanpy\nSeurat\nscvi-tools\ncellranger\n\n\n\n\nBiopython\nBioconductor\npandas"
+  },
+  {
+    "objectID": "test/research1.html#specialized-bioinformatics-skills",
+    "href": "test/research1.html#specialized-bioinformatics-skills",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.3 Specialized Bioinformatics Skills",
+    "text": "2.3 Specialized Bioinformatics Skills\n\nSequencing TechnologiesData AnalysisToolkitsVariant Calling\n\n\n\nNanopore Sequencing\nNext-Generation Sequencing (NGS)\n\n\n\n\nGenomics\nTranscriptomics\nSingle-cell RNA-seq analysis\n\n\n\n\nsamtools\nbedtools\n\n\n\n\nManta\nPindel\nVarScan2\nichorCNA\nMutect2\nBCFtools\nGATK tools"
+  },
+  {
+    "objectID": "test/research1.html#machine-learning-expertise",
+    "href": "test/research1.html#machine-learning-expertise",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.4 Machine Learning Expertise",
+    "text": "2.4 Machine Learning Expertise"
+  },
+  {
+    "objectID": "test/research1.html#data-management-deployment",
+    "href": "test/research1.html#data-management-deployment",
+    "title": "Cutting-Edge Bioinformatics Research Portfolio",
+    "section": "2.5 Data Management & Deployment",
+    "text": "2.5 Data Management & Deployment\n\n\n\n2.5.1 Databases\n\nMySQL\nPostgreSQL\n\n\n\n2.5.2 APIs & Web Development\n\nRESTful APIs\nFlask\nShiny\nStreamlit\nQuarto\n\n\n\n\n2.5.3 File Formats\n\nVCF\nBED\nFASTA\nFASTQ\nBAM\nSAM\nCRAM"
+  },
+  {
+    "objectID": "research.html#variant-calling",
+    "href": "research.html#variant-calling",
+    "title": "Research",
+    "section": "Variant Calling",
+    "text": "Variant Calling\nDeveloped optimized workflows to integrate variant calling, file parsing and formatting from multiple tools for identification of multiple forms of structural and genomic variants in Leukemia patients. Testing sequencing methods to outperform conventional cytogenic testing for rapid diagnosis.\n\nKey Contributions\n\nIntegrating GATK, BCFtools, VarScan2, Pindel, VEP, ichorCNA, Manta for multifaceted variant search\nDeveloped Docker images for each task within a combined WDL workflow"
+  },
+  {
+    "objectID": "research.html#nanopore-sequencing",
+    "href": "research.html#nanopore-sequencing",
+    "title": "Research",
+    "section": "Nanopore Sequencing",
+    "text": "Nanopore Sequencing\nPerformed basecalling on novel mealybugs and species from Plasmodium genus (source of Malaria). Aligned with a reference genome using minimap2 and calculated methylation probability score at per CpG site for epigenetic marker identification. Explored epigenetic distribution to study impact in facultative heterochromaticity.\n\nKey Contributions\n\nUsed Dorado, Guppy and Megalodon for HAC basecalling using 5mC, 5hmC, 6mA Remora models\nParsed BAM/SAM files with Samtools to identify methylation frequency per CpG site across genome\nUtilized R packages - GenomicRanges and IRanges for mapping sites against reference GCF files\nUsed UNCALLED, ReadUntil for adaptive sampling, increasing accuracy from 56% to 78%"
+  },
+  {
+    "objectID": "research.html#algorithm-development",
+    "href": "research.html#algorithm-development",
+    "title": "Research",
+    "section": "Algorithm Development",
+    "text": "Algorithm Development\nDeveloped the first algorithm to generate probes and primers from 16s rRNA sequences of pathogenic microbiome. Incorporated a unique feature for finding best primer/ probe per taxonomic level.\n\nKey Contributions\n\nDeveloped automated pipeline to retrieve sequences from NCBI Entrez in Bash\nUsed Python packages - Biopython, scikit-learn, pandas, numpy, pandarallel, multiprocessing"
+  },
+  {
+    "objectID": "research.html#conclusion",
+    "href": "research.html#conclusion",
+    "title": "Research",
+    "section": "Conclusion",
+    "text": "Conclusion\nTo conclude, my research experience spans from single-cell RNA sequencing to novel algorithm development, each project advancing my understanding of human health and disease. This diverse skill set in advanced sequencing technologies, variant calling, and computational approaches positions me at the forefront of integrating data science with biological insights.\nI aim to contribute to discoveries that can enhance our understanding of life sciences and transform patient care - early prediction, diagnosis and precision medicine."
+  },
+  {
+    "objectID": "research.html#contact",
+    "href": "research.html#contact",
+    "title": "Research",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out if you have any questions or would like to collaborate on future research projects."
   }
 ]

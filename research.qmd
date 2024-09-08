@@ -1,0 +1,65 @@
+---
+title: "Research"
+format:
+  html:
+    theme: cosmo
+css: styles.css
+toc: true
+toc-title: "Table of Contents"
+toc-location: left
+toc-depth: 2
+code-fold: true
+---
+
+Welcome to my research webpage! This portfolio showcases my journey through the cutting-edge landscape of bioinformatics and computational biology. As the field of bioinformatics continues to evolve, I remain dedicated to leveraging emerging technologies and methodologies to drive meaningful discoveries in cancer research, infectious diseases, and beyond.
+
+
+## Single-cell RNA-seq
+
+Performed quality control, batch correction, unsupervised clustering and identification of differentially expressed genes in samples from cancer (Acute Myeloid Leukemia) patients with various genetic mutations. Analyzed for inter-cellular heterogeneity using DEGs and gene annotation. Utilized methods like batch normalization and anchoring common cellular expressions for batch effect removal.
+
+#### [Key Contributions]{.underline}
+
+-   Developed **Seurat**, **scanpy** and **scvi-tools** end-to-end workflows using **R**, **Python** and **WDL**
+-   Used **DoubletFinder**, **Harmony**, **ComBat**, **DESeq2**, **SCTransform(v2)** according to best practices
+-   Developed [Single Cell Quality Control Tool](https://rna-qctool.fredhutch.org/ "Link to App for QC Analysis") for end users for interactive visualization of raw data
+-   Generated custom Docker images for each task
+
+## Variant Calling
+
+Developed optimized workflows to integrate variant calling, file parsing and formatting from multiple tools for identification of multiple forms of structural and genomic variants in Leukemia patients. Testing sequencing methods to outperform conventional cytogenic testing for rapid diagnosis.
+
+#### [Key Contributions]{.underline}
+
+-   Integrating **GATK**, **BCFtools**, **VarScan2**, **Pindel**, **VEP**, **ichorCNA**, **Manta** for multifaceted variant search
+-   Developed **Docker images** for each task within a combined WDL workflow
+
+## Nanopore Sequencing
+
+Performed basecalling on novel mealybugs and species from Plasmodium genus (source of Malaria). Aligned with a reference genome using minimap2 and calculated methylation probability score at per CpG site for epigenetic marker identification. Explored epigenetic distribution to study impact in facultative heterochromaticity.
+
+#### [Key Contributions]{.underline}
+
+-   Used **Dorado**, **Guppy** and **Megalodon** for HAC basecalling using **5mC**, **5hmC**, **6mA** Remora models
+-   Parsed **BAM/SAM** files with **Samtools** to identify methylation frequency per **CpG** site across genome
+-   Utilized **R packages** - **GenomicRanges** and **IRanges** for mapping sites against reference GCF files
+-   Used **UNCALLED**, **ReadUntil** for adaptive sampling, increasing accuracy from 56% to **78%**
+
+## Algorithm Development
+
+Developed the **first algorithm** to generate probes and primers from 16s rRNA sequences of pathogenic microbiome. Incorporated a unique feature for finding best primer/ probe per taxonomic level.
+
+#### [Key Contributions]{.underline}
+
+-   Developed automated pipeline to retrieve sequences from **NCBI Entrez** in **Bash**
+-   Used Python packages - **Biopython**, **scikit-learn**, **pandas**, **numpy**, **pandarallel**, **multiprocessing**
+
+## Conclusion
+
+To conclude, my research experience spans from single-cell RNA sequencing to novel algorithm development, each project advancing my understanding of human health and disease. This diverse skill set in advanced sequencing technologies, variant calling, and computational approaches positions me at the forefront of integrating data science with biological insights.
+
+I aim to contribute to discoveries that can enhance our understanding of life sciences and transform patient care - early prediction, diagnosis and precision medicine.
+
+## Contact
+
+Feel free to [reach out](mailto:sanazagarwal99@gmail.com) if you have any questions or would like to collaborate on future research projects.

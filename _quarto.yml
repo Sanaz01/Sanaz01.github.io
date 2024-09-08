@@ -16,6 +16,7 @@ website:
         text: Home
       - blogs.qmd
       - publications.qmd
+      - research.qmd
 
 format:
   html:

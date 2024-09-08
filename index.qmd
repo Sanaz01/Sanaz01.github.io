@@ -26,11 +26,11 @@ Besides work, I enjoy drinking chai (it's not chai tea) and working out. I am a 
 
 ### Education
 
-#### MS, Biomedical Engineering
+#### **MS, Biomedical Engineering**
 
 Johns Hopkins University
 
-#### Bachelors, Biochemical Engineering and Biotechnology
+#### **BS, Biochemical Engineering and Biotechnology**
 
 Indian Institute of Technology (IIT) Delhi, India
 
@@ -39,7 +39,7 @@ Indian Institute of Technology (IIT) Delhi, India
 -   **Single Cell RNA Analysis**
     -   QC methods
     -   Unsupervised clustering
-    -   Heterogeneity identification
+    -   Pseudobulk analysis 
     -   Differential gene expression
 -   **Variant Calling**
     -   Structural and Genomic variants

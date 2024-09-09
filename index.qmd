@@ -1,9 +1,12 @@
 ---
 title: "Sanaz Agarwal"
 image: profile_image.jpg
+page-layout: full
 # resources: resume.pdf - automatically copies file to /docs for rendering
 about:
   template: trestles
+  image-shape: round
+  image-width: 20em
   links:
     - text: Email
       icon: envelope
@@ -16,11 +19,9 @@ about:
       href: https://www.linkedin.com/in/sanaz-agarwal/
 ---
 
-### Introduction
+Hello! I am Sanaz Agarwal, a passionate Bioinformatician/ Computational Biologist and currently working at [Fred Hutch Cancer Center](https://www.fredhutch.org/), Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.
 
-I am a Bioinformatician/ Computational Biologist working at [Fred Hutch Cancer Center](https://www.fredhutch.org/), Seattle, WA. I use cancer biology, molecular biology and advanced computational algorithms to interpret data from cancer patients to identify the mutations and differential gene expression profiles. In addition to this, I enjoy building workflows, apps and dashboards for seamless data analysis, monitoring and visualization.
-
-I am fascinated by the Next Generation Sequencing (NGS) technologies that have emerged in the last two decades and opened many new frontiers of molecular analysis. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.
+I am fascinated by the **Next Generation Sequencing (NGS)** technologies that have emerged in the last two decades and opened many new frontiers of molecular analysis. My passion lies in using smarter computing tools and workflows to automate all the analysis and advance towards precision medicine.
 
 Besides work, I enjoy drinking chai (it's not chai tea) and working out. I am a swimmer, having represented and won several National and State level championships in India. For recreation, I also play the piano.
 
@@ -36,18 +37,7 @@ Indian Institute of Technology (IIT) Delhi, India
 
 ### Key Research Interests
 
--   **Single Cell RNA Analysis**
-    -   QC methods
-    -   Unsupervised clustering
-    -   Pseudobulk analysis
-    -   Differential gene expression
--   **Variant Calling**
-    -   Structural and Genomic variants
-    -   Annotation
--   **NGS Nanopore Sequencing**
-    -   Basecalling
-    -   Annotation
-    -   Epigenetic marker identification
--   **Environments and Workflows**
-    -   Dockers, Conda
-    -   WDL, Nextflow, Snakemake
+-   **Single Cell RNA Analysis** - QC methods, Unsupervised clustering, Pseudobulk analysis, Differential gene expression
+-   **Variant Calling** - Structural and Genomic variants, Annotation
+-   **NGS Nanopore Sequencing** - Basecalling, Adaptive Sampling, Epigenetic marker identification
+-   **Environments and Workflows** - Dockers, Conda, WDL, Nextflow, Snakemake

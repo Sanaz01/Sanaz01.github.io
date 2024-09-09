@@ -9,9 +9,8 @@ website:
     tracking-id: "G-PHD8FEK27R"
   title: "Sanaz Agarwal"
   navbar:
-    background: primary
     search: true
-    left:
+    right:
       - href: index.qmd
         text: Home
       - blogs.qmd
@@ -20,9 +19,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cosmo dark
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 

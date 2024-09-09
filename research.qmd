@@ -13,7 +13,6 @@ code-fold: true
 
 Welcome to my research webpage! This portfolio showcases my journey through the cutting-edge landscape of bioinformatics and computational biology. As the field of bioinformatics continues to evolve, I remain dedicated to leveraging emerging technologies and methodologies to drive meaningful discoveries in cancer research, infectious diseases, and beyond.
 
-
 ## Single-cell RNA-seq
 
 Performed quality control, batch correction, unsupervised clustering and identification of differentially expressed genes in samples from cancer (Acute Myeloid Leukemia) patients with various genetic mutations. Analyzed for inter-cellular heterogeneity using DEGs and gene annotation. Utilized methods like batch normalization and anchoring common cellular expressions for batch effect removal.
@@ -40,9 +39,9 @@ Performed basecalling on novel mealybugs and species from Plasmodium genus (sour
 
 #### [Key Contributions]{.underline}
 
--   Used **Dorado**, **Guppy** and **Megalodon** for HAC basecalling using **5mC**, **5hmC**, **6mA** Remora models
--   Parsed **BAM/SAM** files with **Samtools** to identify methylation frequency per **CpG** site across genome
--   Utilized **R packages** - **GenomicRanges** and **IRanges** for mapping sites against reference GCF files
+-   Used **Dorado**, **Guppy**, **Megalodon** for HAC basecalling using **5mC**, **5hmC**, **6mA** Remora models
+- Parsed **BAM/SAM** files with **Samtools** to identify methylation frequency per **CpG** across genome
+-   Utilized **R packages** - **GenomicRanges**, **IRanges** for mapping sites against reference GCF files
 -   Used **UNCALLED**, **ReadUntil** for adaptive sampling, increasing accuracy from 56% to **78%**
 
 ## Algorithm Development

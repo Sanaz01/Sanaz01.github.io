@@ -1,5 +1,6 @@
 ---
 title: "Cancer Screening Tests"
+toc: true
 description: "What cancer related medical tests we should get done?"
 author: "Sanaz Agarwal"
 date: "2024-09-01"

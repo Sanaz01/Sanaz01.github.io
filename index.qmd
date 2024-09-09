@@ -2,6 +2,7 @@
 title: "Sanaz Agarwal"
 image: profile_image.jpg
 page-layout: full
+toc: false
 # resources: resume.pdf - automatically copies file to /docs for rendering
 about:
   template: trestles

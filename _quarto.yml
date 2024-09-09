@@ -21,7 +21,7 @@ format:
   html:
     theme: cosmo dark
     css: styles.css
-    toc: false
+    toc: true
 
 editor: visual
 
